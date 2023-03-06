@@ -1,0 +1,9 @@
+
+selenium grid
+https://www.selenium.dev/documentation/grid/applicability/
+
+page object model and page factory model
+
+https://www.geeksforgeeks.org/difference-between-pom-and-pagefactory/
+
+https://www.lambdatest.com/blog/page-object-model-in-selenium-python/

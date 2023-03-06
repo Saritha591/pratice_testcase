@@ -1,0 +1,11 @@
+1.  right click github folder
+2.  click on integrated terminal
+3.  git status
+4.  git add filename
+5.  git commit -m "file message"
+6.  git push
+
+
+
+
+

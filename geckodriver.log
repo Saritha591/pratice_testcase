@@ -1,0 +1,89 @@
+1670908648804	geckodriver	INFO	Listening on 127.0.0.1:52622
+1670908651881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofile6kX2RY"
+1670908654306	Marionette	INFO	Marionette enabled
+1670908654312	Marionette	INFO	Listening on port 52643
+Read port: 52643
+WebDriver BiDi listening on ws://127.0.0.1:52623
+1670908655486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofile6kX2RY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52623/devtools/browser/dd06fb8c-13a2-4264-a51b-baaa187bad92
+JavaScript warning: moz-extension://89511711-e3eb-4147-8511-0e3a0d704d2b/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1670908671262	Marionette	INFO	Stopped listening on port 52643
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1670908886839	geckodriver	INFO	Listening on 127.0.0.1:52817
+1670908889889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofileGFoyOo"
+1670908890174	Marionette	INFO	Marionette enabled
+1670908890178	Marionette	INFO	Listening on port 52830
+Read port: 52830
+WebDriver BiDi listening on ws://127.0.0.1:52818
+1670908891143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofileGFoyOo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52818/devtools/browser/e084e48d-402c-4a0a-80e6-7e818181d493
+JavaScript warning: moz-extension://f7a80b35-edb2-4633-96ca-0c3a24cdf740/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1670908975870	Marionette	INFO	Stopped listening on port 52830
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"sessionstore-final-state-write-complete":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\skatta\AppData\Local\Temp\1\rust_mozprofileGFoyOo\sessionCheckpoints.json.tmp) to destination(C:\Users\skatta\AppData\Local\Temp\1\rust_mozprofileGFoyOo\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: OperationError: Could not move temporary file(C:\Users\skatta\AppData\Local\Temp\1\rust_mozprofileGFoyOo\sessionCheckpoints.json.tmp) to destination(C:\Users\skatta\AppData\Local\Temp\1\rust_mozprofileGFoyOo\sessionCheckpoints.json)
+1670909240694	geckodriver	INFO	Listening on 127.0.0.1:53016
+1670909243753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofilecAPSx0"
+1670909244322	Marionette	INFO	Marionette enabled
+1670909244327	Marionette	INFO	Listening on port 53029
+Read port: 53029
+WebDriver BiDi listening on ws://127.0.0.1:53017
+1670909244938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofilecAPSx0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53017/devtools/browser/41b14acc-603b-476c-9df7-c89034f953e5
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1670909250137	Marionette	INFO	Stopped listening on port 53029
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 174: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/addons-bloomfilters RemoteSettingsClient Message: Error: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() The application is shutting down
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 2105: TypeError: (new Error("Phase \"profile-before-change\" is finished, it is too late to register completion condition \"Flush AddonRepository\"", "resource://gre/modules/AsyncShutdown.jsm", 717)) is not iterable
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 908: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1670912706107	geckodriver	INFO	Listening on 127.0.0.1:55933
+1670912709616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofileggLNWi"
+1670912709916	Marionette	INFO	Marionette enabled
+1670912709923	Marionette	INFO	Listening on port 55950
+Read port: 55950
+WebDriver BiDi listening on ws://127.0.0.1:55934
+1670912710551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\skatta\\AppData\\Local\\Temp\\1\\rust_mozprofileggLNWi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55934/devtools/browser/f97bb5d0-7769-4b2d-8c29-7625b5e15661
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1670912715414	Marionette	INFO	Stopped listening on port 55950
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 174: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/addons-bloomfilters RemoteSettingsClient Message: Error: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() The application is shutting down
+JavaScript error: resource://gre/modules/addons/XPIInstall.jsm, line 2105: TypeError: (new Error("Phase \"profile-before-change\" is finished, it is too late to register completion condition \"Flush AddonRepository\"", "resource://gre/modules/AsyncShutdown.jsm", 717)) is not iterable
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 908: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
